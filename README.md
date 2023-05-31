@@ -1,1 +1,1 @@
-# Prince-Fosu
+# Movie Rental Database
