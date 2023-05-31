@@ -1,0 +1,8 @@
+
+Hey,
+I hope this finds you well.I am Prince Fosu Asane, a candidate in Msc Information Technology at the University of the west of Scotland.
+I jsut created a simple Movie Rental Database which helps one to keep track on movies purchased by customers,their total cost as well as the date the movies were created 
+Please find attach the Database file.Thank you and stay tune for more.
+Best Regards
+Prince 
+ 
